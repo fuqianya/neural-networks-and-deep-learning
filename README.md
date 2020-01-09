@@ -9,4 +9,4 @@ This repository contains my notes of Michael Nielsen's  [Neural Networks and Dee
 * 05-Why are deep neural networks hard to train
 * 06-Deep learning
 
-PDF version of this online book will be available from [here](https://static.latexstuio.net/article/2018/0912/neuralnetworksanddeeplearning.pdf)
+PDF version of this online book will be available from [here](https://github.com/antonvladyka/neuralnetworksanddeeplearning.com.pdf/blob/master/book.pdf)
