@@ -2,7 +2,7 @@
 
 This repository contains my notes of Michael Nielsen's  [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com), and my answers to the exercises in this book. This famous book consists of six chapters:
 
-* 01-Using nerual nets to recognize handwritten digits
+* 01-Using nerual nets to recognize handwritten digits  [[note]](https://github.com/fuqianya/neural-networks-and-deep-learning/blob/master/note/chapter1.ipynb) [[exercise]](https://github.com/fuqianya/neural-networks-and-deep-learning/blob/master/exercise/chapter1.ipynb)
 * 02-How the backpropagation algorithm works
 * 03-Improving the way nerual networks learn
 * 04-A visual proof that neural nets can compute any function
